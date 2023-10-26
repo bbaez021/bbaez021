@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbaez021
 - 👀 I’m interested in Software Engineering & Data Science
-- 🌱 I’m code in C++, Java, Python, and MySQL
+- 🌱 I work in C++, Java, Python, and MySQL
 - 📫 How to reach me at \<Website Link\>
 
 <!---
